@@ -1,0 +1,9 @@
+c2f616479a93b652407e6e29e6a16283   apikey 
+firebase login
+firebase init
+firebase deploy
+
+
+
+npm i react-youtube
+npm i react-trailer
